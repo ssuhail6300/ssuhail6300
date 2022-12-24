@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ssuhail6300
-- 👀 I’m interested in working as Software development engineer
-- 🌱 I’m currently learning Full-stack Development
+- 👀 I’m working as Software development engineer
+- 🌱 I’m currently a Full-stack Development
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me suhailahmed8121@gmail.com
 
